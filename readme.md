@@ -2,7 +2,7 @@
 # Hey there! I am Dhruv Desai!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px" height="40px">
 - 👨‍💻  A **Full Stack Engineer**, a **learner**, and a **Competitive Coder**.
 - 🔭 I’m currently working on an ML/AI Project.
-- 🌱 I’m currently learning **monolithic architecture and DevOps**.
+- 🌱 I’m currently learning **microservices architecture and DevOps**.
 - 👯 I’m looking to collaborate on **end to end Full Stack Projects**.
 - 💬 Ask me anything about **tech 🧑‍💻**.
 - 😄 Pronouns: **He/His**.
