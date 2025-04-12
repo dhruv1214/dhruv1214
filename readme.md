@@ -1,4 +1,4 @@
-![Alt Text](dhruv_cover.png) @d3-dhruv
+![Alt Text](dhruv_cover.png) 
 # Hey there! I am Dhruv Desai!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px" height="40px">
 - 👨‍💻  A **Full Stack Engineer**, a **learner**, and a **Competitive Coder**.
 - 🔭 I’m currently working on an ML/AI Project.
@@ -7,6 +7,7 @@
 - 💬 Ask me anything about **tech 🧑‍💻**.
 - 😄 Pronouns: **He/His**.
 - 📃 [My Resume](resume.pdf)
+- Check out my DevOps Repo [@d3-dhruv](https://github.com/d3-dhruv)
 - ⚡ Fun fact: Debugging is like being the detective in a crime movie where you are also the murderer.
 - 📫 How to reach me: <strong>(Click the badge to view my profiles!)</strong>  
 
